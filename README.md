@@ -24,7 +24,7 @@ The data contains 579 Disney movies with six features: movie title, release date
 ## Visualize the genre popularity trend:
 
 The line plot supports our belief that some genres are growing faster in popularity than others. For Disney movies, Action and Adventure genres are growing the fastest. 
-
+So Now let's use sns.FacetGrid.map so we can lineplot each genre per facet:
 ![genre](https://user-images.githubusercontent.com/67468718/104915243-39aa2700-5945-11eb-9868-a14d729ce5b3.JPG)
 
 ## Data Transformation
