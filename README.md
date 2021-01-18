@@ -3,6 +3,10 @@
 
 ![Walt_Disney](https://user-images.githubusercontent.com/67468718/104902958-3f4b4100-5934-11eb-8190-fed8a44f7f2b.JPG)
 
+<p align="center">
+  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/104902958-3f4b4100-5934-11eb-8190-fed8a44f7f2b.JPG">
+</p>
+
 
 ## Introduction
 Walt Disney Studios is the foundation on which The Walt Disney Company was built. The Studios has produced more than 600 films since their debut film, Snow White and the Seven Dwarfs in 1937. While many of its films were big hits, some of them were not.
