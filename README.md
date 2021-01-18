@@ -1,10 +1,8 @@
 # Project: Disney Movies and Box Office Success
 
 
-![Walt_Disney](https://user-images.githubusercontent.com/67468718/104902958-3f4b4100-5934-11eb-8190-fed8a44f7f2b.JPG)
-
 <p align="center">
-  <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/104902958-3f4b4100-5934-11eb-8190-fed8a44f7f2b.JPG">
+  <img width="700" height="900" src="https://user-images.githubusercontent.com/67468718/104902958-3f4b4100-5934-11eb-8190-fed8a44f7f2b.JPG">
 </p>
 
 
