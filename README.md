@@ -26,3 +26,11 @@ The data contains 579 Disney movies with six features: movie title, release date
 The line plot supports our belief that some genres are growing faster in popularity than others. For Disney movies, Action and Adventure genres are growing the fastest. 
 
 ![genre](https://user-images.githubusercontent.com/67468718/104915243-39aa2700-5945-11eb-9868-a14d729ce5b3.JPG)
+
+## Data Transformation
+
+we will build a linear regression model to understand the relationship between genre and box office gross. Since linear regression requires numerical variables and the genre variable is a categorical variable, we'll use a technique called one-hot encoding to convert the categorical variables to numerical. This technique transforms each category value into a new column and assigns a 1 or 0 to the column.
+
+For this dataset, there will be 11 dummy variables, one for each genre except the action genre which we will use as a baseline. For example, if a movie is an adventure movie, like The Lion King, the adventure variable will be 1 and other dummy variables will be 0. Since the action genre is our baseline, if a movie is an action movie, such as The Avengers, all dummy variables will be 0.
+
+
